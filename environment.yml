@@ -1,0 +1,10 @@
+name: aerchemmip-attribution
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - nbstripout
+  - matplotlib
+  - mscorefonts
+  - numpy
+  - pandas
