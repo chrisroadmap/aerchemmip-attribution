@@ -12,3 +12,5 @@ axes.spines.top     : False
 axes.spines.bottom  : False
 figure.dpi          : 150
 font.family         : Arial
+hatch.color         : "#00000060"
+hatch.linewidth     : 1.0
